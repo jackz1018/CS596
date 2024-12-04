@@ -5,7 +5,7 @@ The overarching goal is to optimize GPU sharing Algo and infra-stack to address 
 
 ![描述文本](https://docs.nvidia.com/deploy/mps/_images/image1.png)
 
-In many computing environments, GPUs are not utilized to their fullest potential due to lack of effective sharing mechanisms. This results in wasted computational power and increased costs due to the need for more hardware to meet peak demands.
+In many HPC environments, GPUs are not utilized to their fullest potential due to lack of effective sharing mechanisms. This results in wasted computational power and increased costs due to the need for more hardware to meet peak demands.
 
 By clearly identifying the problem of GPU underutilization, the solution becomes evident: thus the paper would focus on researching how to develop or improve GPU sharing technologies. These new stack need to ensure that GPU resources can be dynamically allocated and managed to match the computational demands, thus maximizing the GPU usage efficiency, reducing costs, and increasing the performance of computing systems.
 
