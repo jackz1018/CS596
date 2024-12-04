@@ -1,7 +1,7 @@
 # CS596
 
 The overarching goal is to optimize GPU sharing Algo and infra-stack to address the inefficiencies in resource utilization, which can have significant economic and performance implications in computing environments.
-What’s the “big” problem? The major issue is the underutilization of GPU resources in various computing environments, ranging from small-scale labs to large data centers. GPUs, being high-value assets, often remain idle or underused due to inefficient resource allocation and management.
+ underutilization of GPU resources in various computing environments, ranging from small-scale labs to large data centers. GPUs, being high-value assets, often remain idle or underused due to inefficient resource allocation and management.
 
 ![描述文本](https://docs.nvidia.com/deploy/mps/_images/image1.png)
 
