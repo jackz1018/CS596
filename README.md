@@ -1,5 +1,5 @@
 # CS596
-CUDA Muti threat use cases
+
 The overarching goal is to optimize GPU sharing technologies to address the inefficiencies in resource utilization, which can have significant economic and performance implications in computing environments.
 What’s the “big” problem? The major issue is the underutilization of GPU resources in various computing environments, ranging from small-scale labs to large data centers. GPUs, being high-value assets, often remain idle or underused due to inefficient resource allocation and management.
 
